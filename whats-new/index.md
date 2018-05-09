@@ -636,3 +636,7 @@ Your new platform to work with notebooks and Spark is Data Science Experience. S
 
 If you worked with notebooks in {{site.data.keyword.sparks}}, you can migrate your notebooks to Data Science Experience. For more information, see the [Migrating notebooks documentation](/docs/services/AnalyticsforApacheSpark/index-gentopic2.html#migration_to_dsx).
 
+
+### Latest updates for {{site.data.keyword.cloudant_short_notm}}
+
+Visit the following page for a comprehensive list of the [latest updates ![External link icon](../images/launch-glyph.svg "External link icon")](../release_info/release_notes.html#release-notes){:new_window} to {{site.data.keyword.cloudant_short_notm}}.
