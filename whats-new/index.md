@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-06-01"
+lastupdated: "2018-06-22"
 
 ---
 
@@ -650,4 +650,8 @@ New as of: 11 April 2017
 Your new platform to work with notebooks and Spark is Data Science Experience. Sign up to [Data Science Experience](http://datascience.ibm.com/), and start creating notebooks and sharing your expertise with other data scientists.
 
 If you worked with notebooks in {{site.data.keyword.sparks}}, you can migrate your notebooks to Data Science Experience. For more information, see the [Migrating notebooks documentation](/docs/services/AnalyticsforApacheSpark/index-gentopic2.html#migration_to_dsx).
+
+### Latest updates for {{site.data.keyword.cloudant_short_notm}}
+
+Visit the following page for a comprehensive list of the [latest updates ![External link icon](../images/launch-glyph.svg "External link icon")](../release_info/release_notes.html#release-notes){:new_window} to {{site.data.keyword.cloudant_short_notm}}.
 
